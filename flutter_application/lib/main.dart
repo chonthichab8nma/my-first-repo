@@ -93,6 +93,7 @@ class MyHomePage extends StatelessWidget {
                   Text('GPA: 3.98'),
                   Text('GPA: 3.89'),
                   Text('GPA: 2.91'),
+                  Text('Major : Computer Engineering'),
                 ],
               ),
             ],
